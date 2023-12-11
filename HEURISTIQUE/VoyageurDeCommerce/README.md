@@ -7,5 +7,6 @@ Framework réalisé par l'IUT de Dijon sur WPF
 Algorihmes réalisés :
 - 1
 - 2
-- 3
-[Fichier sources des algorithmes](HEURISTIQUE/VoyageurDeCommerce/VoyageurDeCommerce/modele/algorithmes)
+- 3 \n
+
+[Fichier sources des algorithmes](VoyageurDeCommerce/modele/algorithmes)
