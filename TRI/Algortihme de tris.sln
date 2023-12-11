@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algortihme de tris", "Algortihme de tris\Algortihme de tris.csproj", "{FD6EF72C-4B33-4CEE-A1F8-D4F08923E498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algortihme de tris", "Algortihme de tris\Algortihme de tris.csproj", "{FD6EF72C-4B33-4CEE-A1F8-D4F08923E498}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "METIER", "METIER\METIER.csproj", "{A5D8BBD1-398E-42FC-B075-B7FFAF135D90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "METIER", "METIER\METIER.csproj", "{A5D8BBD1-398E-42FC-B075-B7FFAF135D90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

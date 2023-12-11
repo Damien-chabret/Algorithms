@@ -38,7 +38,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 Console.WriteLine("\n" + algoName);
                 Console.WriteLine(String.Join(" < ", liste));
             }
-
         }
     }
 }

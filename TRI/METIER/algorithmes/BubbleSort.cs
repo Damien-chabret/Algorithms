@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace METIER.algorithmes
 {
     /// <summary>
-    /// Algorithme de tri à bulle
+    /// Bubble Sort Algorithme
     /// </summary>
     internal class BubbleSort : ISort
     {
