@@ -3,5 +3,5 @@ Dépôt où je vais mettre tout mes projets liés à des algos
 
 
 ## Algorithmes
-[Heuristique](/HEURISTIQUE/)
-[Tri](/TRI/)
+- [Heuristique](/HEURISTIQUE/)
+- [Tri](/TRI/)
