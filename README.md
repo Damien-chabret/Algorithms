@@ -1,6 +1,5 @@
 # Dépot d'algortihmes 
-Dépôt où je vais mettre tout mes projets liés à des algos
-
+Dépôt regroupant les projets des projets d'algortihmies.
 
 ## Algorithmes
 - [Heuristique](/HEURISTIQUE/)
